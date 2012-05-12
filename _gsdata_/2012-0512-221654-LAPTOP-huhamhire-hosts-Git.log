@@ -1,0 +1,17 @@
+New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+===== 2012/5/12 22:16:54：任务 'huhamhire-hosts-Git'：同步已被 User 所启动，位于计算机 'LAPTOP' =====
+huhamhire-hosts-Git: F:\Git\huhamhire-hosts.git <-> F:\项目\hosts_SDK, SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, ChangeLimit=10
+Locking folder F:\Git\huhamhire-hosts.git for write
+Locking folder F:\项目\hosts_SDK for write
+覆盖复制 'F:\项目\hosts_SDK\pyHosts_OL\backup\hosts_setup_OnL.py' -> 'F:\Git\huhamhire-hosts.git\pyHosts_OL\backup\hosts_setup_OnL.py'
+Close Modified Folder (mod-time, acl): /pyHosts_OL/backup
+覆盖复制 'F:\项目\hosts_SDK\pyHosts_OL\hosts_setup_OnL.py' -> 'F:\Git\huhamhire-hosts.git\pyHosts_OL\hosts_setup_OnL.py'
+覆盖复制 'F:\项目\hosts_SDK\pyHosts_OL\hosts_setup_OnL.pyc' -> 'F:\Git\huhamhire-hosts.git\pyHosts_OL\hosts_setup_OnL.pyc'
+Close Modified Folder (mod-time, acl): /pyHosts_OL
+保存状态文件 F:\Git\huhamhire-hosts.git\_gsdata_\_file_state_v4._gs
+保存状态文件 F:\项目\hosts_SDK\_gsdata_\_file_state_v4._gs
+项目同步未必： 3，错误： 
+===== 2012/5/12 22:16:54：同步完毕。时间：00:00:00，速度：  =====
+Unlocking folder (set insync file) F:\Git\huhamhire-hosts.git\_gsdata_\_insync_v4.gsl
+Unlocking folder (set insync file) F:\项目\hosts_SDK\_gsdata_\_insync_v4.gsl
+
