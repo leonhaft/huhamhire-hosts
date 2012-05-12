@@ -1,0 +1,15 @@
+New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+===== 2012/5/12 18:19:34：任务 'huhamhire-hosts-Git'：同步已被 User 所启动，位于计算机 'LAPTOP' =====
+huhamhire-hosts-Git: F:\Git\huhamhire-hosts <-> F:\项目\hosts_SDK, SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, ChangeLimit=10
+Locking folder F:\Git\huhamhire-hosts for write
+Locking folder F:\项目\hosts_SDK for write
+覆盖复制 'F:\项目\hosts_SDK\modules\adblock_yoyo.hosts' -> 'F:\Git\huhamhire-hosts\modules\adblock_yoyo.hosts'
+覆盖复制 'F:\项目\hosts_SDK\modules\core_ipv6.hosts' -> 'F:\Git\huhamhire-hosts\modules\core_ipv6.hosts'
+Close Modified Folder (mod-time, acl): /modules
+保存状态文件 F:\Git\huhamhire-hosts\_gsdata_\_file_state_v4._gs
+保存状态文件 F:\项目\hosts_SDK\_gsdata_\_file_state_v4._gs
+项目同步未必： 2，错误： 
+===== 2012/5/12 18:19:34：同步完毕。时间：00:00:00，速度：  =====
+Unlocking folder (set insync file) F:\Git\huhamhire-hosts\_gsdata_\_insync_v4.gsl
+Unlocking folder (set insync file) F:\项目\hosts_SDK\_gsdata_\_insync_v4.gsl
+
